@@ -2,6 +2,17 @@
 
 Learn Bioinformatics by Building with Python.
 
+Features
+✓ GC Content
+✓ Reverse Complement
+✓ DNA Translation
+✓ ORF Finder
+
+Roadmap
+- Alignment
+- BLAST
+- RNA-seq
+
 ## About
 
 This repository documents my journey of learning bioinformatics from scratch as a biology undergraduate.
