@@ -51,6 +51,12 @@ Each topic includes:
 - RNA-seq analysis
 - Single-cell RNA-seq
 
+## Motivation
+
+Many biology students are interested in bioinformatics but feel overwhelmed by programming.
+
+This repository is designed to help beginners learn bioinformatics step by step through simple Python implementations and practical examples.
 ## License
+
 
 MIT License
