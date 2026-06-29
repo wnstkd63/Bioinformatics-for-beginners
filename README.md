@@ -2,6 +2,11 @@
 
 Learn Bioinformatics by Building with Python.
 
+Getting Started
+
+pip install -r requirements.txt
+
+python gc_content.py
 Features
 ✓ GC Content
 ✓ Reverse Complement
